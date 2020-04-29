@@ -8,3 +8,4 @@ sum = int((integer * (integer +1))/2)
 
 #return sum
 print("The result of the sum of the first {} positive integers is: {}".format(integer, sum))
+print("The result %s" % (sum))
